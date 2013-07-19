@@ -8,6 +8,8 @@ import java.io.ByteArrayOutputStream;
  */
 public class Base64 {
 
+  private Base64() {
+  }
   /*
   Value Encoding  Value Encoding  Value Encoding  Value Encoding
   0 A            17 R            34 i            51 z
